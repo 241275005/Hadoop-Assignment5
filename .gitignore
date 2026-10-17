@@ -1,0 +1,9 @@
+target/*
+!target/assignment5-1.0-SNAPSHOT.jar
+
+*.class
+*.log
+
+.DS_Store
+.idea/
+.vscode/
